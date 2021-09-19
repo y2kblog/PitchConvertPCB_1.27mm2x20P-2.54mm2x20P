@@ -24,7 +24,7 @@
 <img src="/img/dimension.png" width="150px">
 
 ## 資料
-- 2Dデータ(DXF)：<a href="https://github.com/y2kblog/PitchConvertPCB_1.27mm2x20P-2.54mm2x20P/raw/master/PCB_source/KiCad/dxf/1_27_2x20P-2_54_2x20P.dxf" download="">1_27_2x20P-2_54_2x20P.dxf</a>  
+- 2Dデータ(DXF)：<a href="https://github.com/y2kblog/PitchConvertPCB_1.27mm2x20P-2.54mm2x20P/raw/master/PCB_source/KiCad/dxf/1_27_2x20P-2_54_2x20P_dxf.zip" download="">1_27_2x20P-2_54_2x20P_dxf.zip</a>  
 - 3Dデータ(STEP)：<a href="https://github.com/y2kblog/PitchConvertPCB_1.27mm2x20P-2.54mm2x20P/raw/master/PCB_source/KiCad/step/1_27_2x20P-2_54_2x20P_step.zip" download="">1_27_2x20P-2_54_2x20P_step.zip</a>  
 
 ## License
