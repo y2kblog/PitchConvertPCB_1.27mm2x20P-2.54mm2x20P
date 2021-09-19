@@ -24,8 +24,8 @@
 <img src="/img/dimension.png" width="150px">
 
 ## 資料
-- 2Dデータ(DXF)：<a href="/raw/main/PCB_source/KiCad/dxf/1_27_2x20P-2_54_2x20P.dxf" download="">1_27_2x20P-2_54_2x20P.dxf</a>  
-- 3Dデータ(STEP)：<a href="/raw/main/PCB_source/KiCad/step/1_27_2x20P-2_54_2x20P_step.zip" download="">1_27_2x20P-2_54_2x20P_step.zip</a>  
+- 2Dデータ(DXF)：<a href="/raw/master/PCB_source/KiCad/dxf/1_27_2x20P-2_54_2x20P.dxf" download="">1_27_2x20P-2_54_2x20P.dxf</a>  
+- 3Dデータ(STEP)：<a href="/raw/master/PCB_source/KiCad/step/1_27_2x20P-2_54_2x20P_step.zip" download="">1_27_2x20P-2_54_2x20P_step.zip</a>  
 
 ## License
 MIT License, see `/LICENSE`.
