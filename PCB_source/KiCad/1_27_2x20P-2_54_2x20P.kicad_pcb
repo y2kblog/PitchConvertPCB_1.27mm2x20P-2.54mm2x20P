@@ -62,7 +62,7 @@
     (grid_origin 50 150)
     (visible_elements 7FFFFF7F)
     (pcbplotparams
-      (layerselection 0x00010_7ffffffe)
+      (layerselection 0x00030_7ffffffe)
       (usegerberextensions true)
       (usegerberattributes false)
       (usegerberadvancedattributes false)
@@ -85,9 +85,9 @@
       (subtractmaskfromsilk true)
       (outputformat 3)
       (mirror false)
-      (drillshape 2)
+      (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "dxf"))
+      (outputdirectory "step"))
   )
 
   (net 0 "")
