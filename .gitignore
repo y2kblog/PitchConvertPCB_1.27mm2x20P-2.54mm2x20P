@@ -32,3 +32,4 @@ gerber/
 *.dft
 *.FCStd*
 *.xcf
+img/*.pdf
