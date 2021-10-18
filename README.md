@@ -1,6 +1,6 @@
 # ピッチ変換基板(1.27mm 2×20P⇔2.54mm 2×20P)
 
-<img src="/img/ProductImage.jpg" width="300px">
+<img src="/img/ProductImage_1000px.jpg" width="300px">
 
 ## 概要
 1.27mmピッチ2×20Pを2.54mmピッチ2×20P(300mil幅)に変換する基板です。
